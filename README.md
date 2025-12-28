@@ -1,5 +1,7 @@
 # LinkHub
 
+https://bento.me/kimmy-bento
+
 Bento 스타일의 개인 링크 페이지 클론 프로젝트입니다.
 
 ## 미리보기
@@ -8,11 +10,11 @@ Bento 스타일의 개인 링크 페이지 클론 프로젝트입니다.
 
 ## 기능
 
-- 프로필 섹션 (아바타, 이름, 바이오)
-- 벤토 그리드 레이아웃 카드
-- Instagram/Behance 이미지 그리드
-- 반응형 디자인
-- 호버 애니메이션 효과
+-   프로필 섹션 (아바타, 이름, 바이오)
+-   벤토 그리드 레이아웃 카드
+-   Instagram/Behance 이미지 그리드
+-   반응형 디자인
+-   호버 애니메이션 효과
 
 ## 파일 구조
 
@@ -33,9 +35,9 @@ open bento-clone.html
 
 ## 기술 스택
 
-- HTML5
-- CSS3 (Flexbox, Grid)
-- Google Fonts (Noto Sans KR)
+-   HTML5
+-   CSS3 (Flexbox, Grid)
+-   Google Fonts (Noto Sans KR)
 
 ## 라이선스
 
