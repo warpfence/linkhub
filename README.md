@@ -20,8 +20,14 @@ Bento 스타일의 개인 링크 페이지 클론 프로젝트입니다.
 
 ```
 LinkHub/
-├── bento-clone.html    # 메인 HTML 파일
-├── bento-clone.css     # 스타일시트
+├── index.html          # 메인 HTML 파일 (GitHub Pages용)
+├── resources/          # 이미지 리소스 폴더
+│   ├── profile.png     # 프로필 이미지
+│   ├── instagram-*.jpeg # Instagram 이미지
+│   ├── behance-*.jpeg  # Behance 이미지
+│   ├── preview-*.jpeg  # 미리보기 이미지
+│   └── icon-*.png      # 아이콘 이미지
+├── sources/            # 원본 소스 파일 (참고용)
 ├── .gitignore
 └── README.md
 ```
@@ -30,7 +36,7 @@ LinkHub/
 
 ```bash
 # 브라우저에서 열기
-open bento-clone.html
+open index.html
 ```
 
 ## 기술 스택
